@@ -1,0 +1,14 @@
+canvas{
+    display: flex;
+    margin: 50px auto;
+}
+
+img{
+    transition: all ease-in 1;
+    vertical-align: middle;
+}
+
+img:hover{
+    width: 60px;
+    
+}
